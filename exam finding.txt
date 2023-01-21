@@ -1,0 +1,7 @@
+Lab Exam finding
+
+
+#In this lab i have used logistic regression and decision tree 
+# as we can c that in logistic regression if more precisely train the data also having higher accuracy then the decision tree 
+# as logistic is very superior for classification
+# if we set for e.g max depth= 5 in decsion tree attribute it will be more accurate.
